@@ -10,3 +10,25 @@ This is a manual QA testing project focused on the checkout process of the [Proz
 - **Tools used:** Google Sheets / Excel, Markdown, Screenshots
 
 ## 📁 Project Structure
+qa-prozis-checkout-test/
+├── README.md
+├── Test_Plan.md
+├── Test_Cases.xlsx
+├── Bug_Report.md
+└── Evidence_Screenshots/
+
+
+## ✅ Main Deliverables
+
+- A structured **Test Plan** describing the testing approach.
+- A list of detailed **Test Cases** for checkout flow.
+- Simulated **Bug Reports** based on real findings.
+- Screenshots and evidence to support the execution.
+
+## 🚀 Goals
+
+- Show manual QA testing skills in a practical example.
+- Demonstrate understanding of test planning, execution, and reporting.
+- Build a public QA portfolio for job applications.
+
+---
